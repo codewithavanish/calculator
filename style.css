@@ -14,7 +14,7 @@ body {
 }
 
 .calculator {
-    background: #111827;
+    background: blueviolet;
     padding: 20px;
     border-radius: 15px;
     width: 320px;
@@ -32,7 +32,7 @@ body {
     margin-bottom: 15px;
     border-radius: 10px;
     background: #374151;
-    color: white;
+    color: pink;
 }
 
 .buttons {
@@ -48,7 +48,7 @@ button {
     font-size: 1.2rem;
     cursor: pointer;
     background: #4b5563;
-    color: white;
+    color:yellowgreen;
     transition: 0.2s;
 }
 
